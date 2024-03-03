@@ -26,4 +26,4 @@ For help or issues using data, please submit a GitHub issue.
 
 For personal communication related to our work, please contact Gautam Kishore Shahi(`gautamshahi16@gmail.com`)
 ## More update
-For more updates on the related publication on the topic of FakeCovid, please visit [2023-Israel-Hamas-war Dataset](https://github.com/Gautamshahi/2023-Israel-Hamas-war/)
+For more updates on the related publication on the topic of FakeCovid, please visit [WarClaim: 2023-Israel-Hamas-war Dataset](https://github.com/Gautamshahi/WarClaim/) 
