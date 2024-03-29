@@ -12,13 +12,14 @@ We have collected the data using [AAMUSED](https://doi.org/10.1007/978-3-031-105
 
 Please cite the [ECIR 2024 paper](https://arxiv.org/abs/2401.16625):
 ```
-@inproceedings{shahi2024ecir,
-  title={FakeClaim: A Multiple Platform-driven Dataset for Identification of Fake News on 2023 Israel-Hamas War},
-  author={Shahi, Gautam Kishore and Jaiswal, Amit Kumar and Mandl, Thomas},
-  booktitle={European Conference on Information Retrieval},
-  pages={},
-  year={2024},
-  publisher={Springer}
+@InProceedings{shahiecir2024,
+author="Shahi, Gautam Kishore and Jaiswal, Amit Kumar and Mandl, Thomas",
+title="FakeClaim: A Multiple Platform-Driven Dataset for Identification of Fake News on 2023 Israel-Hamas War",
+booktitle="Advances in Information Retrieval",
+year="2024",
+publisher="Springer Nature Switzerland",
+address="Cham",
+pages="66--74"
 }
 ```
 ## Contact information
